@@ -1,5 +1,18 @@
 # Changelog
 
+## [21.17.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.16.0...v21.17.0) (2025-01-11)
+
+
+### Features
+
+* **add:** Add thermostat endpoints to Ubisys H10 ([#8589](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8589)) ([05865e9](https://github.com/Koenkk/zigbee-herdsman-converters/commit/05865e983e39ce03578a6bfdb40099dffe041537))
+
+
+### Bug Fixes
+
+* Add additional `motion_state` to Tuya ZG-205Z/A https://github.com/Koenkk/zigbee2mqtt/issues/25682 ([8b0ccfe](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8b0ccfe23ef88569e0d6edaf6941193f2e540c3b))
+* PRO-900Z: Removed `valve_state` and added climate `running_state` ([#8588](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8588)) ([e8b0a37](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e8b0a37195c2b330b5e531b7a7ffd55a3fa2bc0b))
+
 ## [21.16.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.15.0...v21.16.0) (2025-01-10)
 
 
